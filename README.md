@@ -85,11 +85,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=m1ndhub&theme=tokyonight&show_icons=true/460/300">
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=m1ndhub&theme=dracula&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1ndhub&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1ndhub&show_icons=true&locale=en&layout=compact&theme=dracula"/460/300"></p>
 
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ndhub&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ndhub&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 
