@@ -29,6 +29,7 @@
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    !![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 - 🎁 Databases:
 
@@ -94,9 +95,11 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- <em><b>No bug no life!</b>😃</em>
- Email: saksit.wn@gmail.com
- 
+Email: saksit.wn@gmail.com
+
+ <br>
+  <em><b>No bug no life!</b>😃</em>
+
 <br>
 
 <p align="center">
