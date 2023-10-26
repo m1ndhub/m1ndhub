@@ -27,13 +27,15 @@
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![Javascript](https://img.shields.io/badge/Javascript-test?logo=javascript&logoColor=white&labelColor=Red&color=yellow)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🔍 Test framework:
+- 🔍 Test tools:
 
     ![Static Badge](https://img.shields.io/badge/cypress-test?logo=Cypress)
+    ![Static Badge](https://img.shields.io/badge/Apache-Jmeter-test?logo=Apache%20Jmeter&logoColor=black&labelColor=Red&color=red)
+    ![Static Badge](https://img.shields.io/badge/Robotframework-test?logo=robotframework&logoColor=black&labelColor=Red&color=white)
 
-    
 - ♾️ DevOps:
 
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
