@@ -95,6 +95,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
  <em><b>No bug no life!</b>😃</em>
+ Email: saksit.wn@gmail.com
  
 <br>
 
