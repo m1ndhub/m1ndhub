@@ -32,8 +32,8 @@
 
 - 🔍 Test tools:
 
-    ![Static Badge](https://img.shields.io/badge/cypress-test?logo=Cypress)
-    ![Static Badge](https://img.shields.io/badge/Apache-Jmeter-test?logo=Apache%20Jmeter&logoColor=black&labelColor=Red&color=red)
+    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/Robotframework-test?logo=robotframework&logoColor=black&labelColor=Red&color=white)
 
 - ♾️ DevOps:
